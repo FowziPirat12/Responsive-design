@@ -1,9 +1,17 @@
 body{
     background-color: aqua;
+    margin: 0%;
 }
 
-.Cirlce-yellow{
-    height: 50vh;
-    width: 50vw;
+.circle-yellow{
+    height: 100vh;
+    width: 100vh;
     background-color: yellow;
+    border-radius: 50%;
+    margin:auto;
+}
+
+
+@media screen and (max-width:800px){
+
 }
