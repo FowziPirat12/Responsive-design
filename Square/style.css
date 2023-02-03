@@ -25,6 +25,10 @@ body{
     background-color: yellow;
 }
 
+h1{
+    font-size: 2vw;
+}
+
 
 @media screen and (max-width:800px){
 
